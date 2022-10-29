@@ -1,0 +1,1 @@
+availab_Zone = "ap-south-1a"
